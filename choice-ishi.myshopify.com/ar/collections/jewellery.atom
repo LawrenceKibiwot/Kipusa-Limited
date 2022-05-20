@@ -1,0 +1,1417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://choice-ishi.myshopify.com/ar/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://choice-ishi.myshopify.com/ar/collections/jewellery.atom"/>
+  <title>Choice Sectioned Shopify Theme</title>
+  <updated>2021-03-08T01:59:47-05:00</updated>
+  <author>
+    <name>Choice Sectioned Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582625108124</id>
+    <published>2021-03-08T01:59:47-05:00</published>
+    <updated>2021-03-08T01:59:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/the-single-bangale"/>
+    <title>The single Bangale</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/20_5bddfcaa-3c60-4020-841b-589bcd48de64.png?v=1615188522"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            12.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582625108124</id>
+      <title>Default Title</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582624387228</id>
+    <published>2021-03-08T01:59:41-05:00</published>
+    <updated>2021-03-08T01:59:41-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/the-silver-eqs-bengals"/>
+    <title>The silver bengals</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/15_44dd62e3-acb8-43cf-99d5-9c07c398221b.png?v=1615188523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            40.00 - 42.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/the-silver-eqs-bengals">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582624387228</id>
+      <title>M / Black</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582624387228</id>
+      <title>M / White</title>
+      <s:price currency="USD">40.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582624387228</id>
+      <title>XL / Black</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582624387228</id>
+      <title>XL / White</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582623469724</id>
+    <published>2021-03-08T01:59:36-05:00</published>
+    <updated>2021-03-08T01:59:36-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/the-pendant-set-simple"/>
+    <title>The pendant simple</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/10_a8065943-c5ad-43f1-8664-dd4852fe81b0.png?v=1615188511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582623469724</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582622519452</id>
+    <published>2021-03-08T01:59:30-05:00</published>
+    <updated>2021-03-08T01:59:30-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/the-neckless"/>
+    <title>The Neckless</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/14_d28e550e-82b0-4dea-8a53-9150e117a131.png?v=1615188449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582622519452</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+    <published>2021-03-08T01:59:17-05:00</published>
+    <updated>2021-03-08T01:59:17-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/the-golden-bangless"/>
+    <title>The golden Bangless</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/9_822cb9ef-3013-4f6e-ade3-797c7e1fb3c9.png?v=1615188451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            22.00 - 24.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/the-golden-bangless">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+      <title>M / Gold</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+      <title>M / Green</title>
+      <s:price currency="USD">22.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+      <title>L / Gold</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+      <title>L / Green</title>
+      <s:price currency="USD">23.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+      <title>XL / Gold</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+      <title>XL / Pink</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582620651676</id>
+      <title>XL / Green</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582618488988</id>
+    <published>2021-03-08T01:59:02-05:00</published>
+    <updated>2021-03-08T01:59:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/the-few-neckless-1"/>
+    <title>The few Neckless</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/18_6e9aae10-9bf9-46d0-82bb-da55ec0a156b.png?v=1615188391"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582618488988</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582617211036</id>
+    <published>2021-03-08T01:58:56-05:00</published>
+    <updated>2021-03-08T01:58:56-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/the-few-neckless"/>
+    <title>The Neckless Gold</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/19_4a186c72-27fc-4d6f-82c2-095da5c41930.png?v=1615188473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            15.00 - 17.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/the-few-neckless">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582617211036</id>
+      <title>S / Silver</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582617211036</id>
+      <title>S / Gold</title>
+      <s:price currency="USD">15.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582617211036</id>
+      <title>M / Silver</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582617211036</id>
+      <title>M / Gold</title>
+      <s:price currency="USD">16.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582617211036</id>
+      <title>L / Silver</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582617211036</id>
+      <title>L / Gold</title>
+      <s:price currency="USD">17.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582615507100</id>
+    <published>2021-03-08T01:58:46-05:00</published>
+    <updated>2021-03-08T01:58:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/the-bengals-gold-silver"/>
+    <title>The bengals gold silver</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/8_26ad3f02-0038-4040-bc6c-dc235fe27b9b.png?v=1615188967"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582615507100</id>
+      <title>Default Title</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582614720668</id>
+    <published>2021-03-08T01:58:39-05:00</published>
+    <updated>2021-03-08T01:58:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/silver-with-dimond-breaslet"/>
+    <title>Silver Dimond breaslet</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/17_e53cf15e-ab13-4b81-9e00-6becce1b65a2.png?v=1615188348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582614720668</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582614720668</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582614720668</id>
+      <title>M / Silver</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582614720668</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582614720668</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582614720668</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582614720668</id>
+      <title>L / Silver</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582614720668</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582613868700</id>
+    <published>2021-03-08T01:58:33-05:00</published>
+    <updated>2021-03-08T01:58:33-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/silver-ring-eq-dimond"/>
+    <title>Silver ring eq Dimond</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/3_2bada9d9-89a7-4cb1-b664-68ee8ee5098c.png?v=1615188366"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            25.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582613868700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+    <published>2021-03-08T01:58:26-05:00</published>
+    <updated>2021-03-08T01:58:26-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/pure-neckless-with-dimond"/>
+    <title>Pure neckless Dimond</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/12_ca3dfc32-a1e6-4892-90dc-d9c7603fd1c0.png?v=1615188324"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            50.00 - 54.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/pure-neckless-with-dimond">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+      <title>S / Gold</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+      <title>S / Green</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+      <title>S / Silver</title>
+      <s:price currency="USD">50.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+      <title>M / Gold</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+      <title>M / Green</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+      <title>M / Silver</title>
+      <s:price currency="USD">52.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+      <title>L / Gold</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+      <title>L / Green</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582612656284</id>
+      <title>L / Silver</title>
+      <s:price currency="USD">54.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582611673244</id>
+    <published>2021-03-08T01:58:19-05:00</published>
+    <updated>2021-03-08T01:58:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/good-american-diamond-erring"/>
+    <title>Good Diamond Set</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/7_8b2e9a74-07ca-4840-bc59-083f91270db8.png?v=1615188316"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            30.00 - 31.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/good-american-diamond-erring">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582611673244</id>
+      <title>S / Silver</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582611673244</id>
+      <title>S / Gold</title>
+      <s:price currency="USD">30.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582611673244</id>
+      <title>M / Silver</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582611673244</id>
+      <title>M / Gold</title>
+      <s:price currency="USD">31.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582610690204</id>
+    <published>2021-03-08T01:58:13-05:00</published>
+    <updated>2021-03-08T01:58:13-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/golden-eq-dimond-ring"/>
+    <title>Golden eq Ring</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/2_c51e47eb-e5ad-45c4-9b55-9fb3bdf2110b.png?v=1615188307"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582610690204</id>
+      <title>Default Title</title>
+      <s:price currency="USD">60.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582609805468</id>
+    <published>2021-03-08T01:58:07-05:00</published>
+    <updated>2021-03-08T01:58:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/few-neckless-gold"/>
+    <title>Few Neckless Gold</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/16_3e34cda3-507f-4c99-ae11-016342c1618d.png?v=1615188290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            42.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582609805468</id>
+      <title>Default Title</title>
+      <s:price currency="USD">42.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582608527516</id>
+    <published>2021-03-08T01:57:59-05:00</published>
+    <updated>2021-03-08T01:57:59-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/dimond-simul-neckless"/>
+    <title>Dimond Neckless</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/6_6cc55ae0-02ee-4204-a7bc-0df670e9fc07.png?v=1615188271"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            12.00 - 14.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/dimond-simul-neckless">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582608527516</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582608527516</id>
+      <title>M / Red</title>
+      <s:price currency="USD">12.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582608527516</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582608527516</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">13.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582608527516</id>
+      <title>L / Red</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582608527516</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">14.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6582606561436</id>
+    <published>2021-03-08T01:57:45-05:00</published>
+    <updated>2021-03-08T01:57:45-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/best-dimong-ring-gold"/>
+    <title>Best Dimong Ring</title>
+    <s:type>jewellery</s:type>
+    <s:vendor>goldments</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/1_426eefae-15f6-449b-8c27-86ccdc92518a.png?v=1615188261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>goldments<br>
+        <strong>Type: </strong>jewellery<br>
+        <strong>Price: </strong>
+            55.00 - 57.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/best-dimong-ring-gold">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_pill</s:tag>
+    <s:tag>brand_siml</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_green</s:tag>
+    <s:tag>color_pink</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>jewellery_earring</s:tag>
+    <s:tag>jewellery_necklace</s:tag>
+    <s:tag>jewellery_ring</s:tag>
+    <s:tag>size_L</s:tag>
+    <s:tag>size_M</s:tag>
+    <s:tag>size_XL</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582606561436</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582606561436</id>
+      <title>S / White</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582606561436</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582606561436</id>
+      <title>M / White</title>
+      <s:price currency="USD">57.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582606561436</id>
+      <title>S / Silver</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6582606561436</id>
+      <title>M / Silver</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

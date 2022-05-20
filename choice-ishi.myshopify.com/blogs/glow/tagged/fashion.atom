@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://choice-ishi.myshopify.com/blogs/glow.atom</id>
+  <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/blogs/glow"/>
+  <link rel="self" type="application/atom+xml" href="https://choice-ishi.myshopify.com/blogs/glow/tagged/fashion.atom"/>
+  <title>Choice Sectioned Shopify Theme - Glow</title>
+  <updated>2021-04-29T06:21:52-04:00</updated>
+  <author>
+    <name>Choice Sectioned Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/blogs/glow/nec-intellegat-deseruisse-te</id>
+    <published>2021-04-29T06:15:31-04:00</published>
+    <updated>2021-09-08T08:16:58-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/blogs/glow/nec-intellegat-deseruisse-te"/>
+    <title>Nec intellegat deseruisse te</title>
+    <author>
+      <name>Shopify Staff</name>
+    </author>
+    <content type="html">
+      <![CDATA[<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>]]>
+    </content>
+  </entry>
+</feed>

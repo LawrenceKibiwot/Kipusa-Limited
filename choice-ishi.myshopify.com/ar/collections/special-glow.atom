@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://choice-ishi.myshopify.com/ar/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://choice-ishi.myshopify.com/ar/collections/special-glow.atom"/>
+  <title>Choice Sectioned Shopify Theme</title>
+  <updated>2021-04-29T08:17:29-04:00</updated>
+  <author>
+    <name>Choice Sectioned Shopify Theme</name>
+  </author>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+    <published>2021-04-29T08:17:29-04:00</published>
+    <updated>2021-04-29T08:17:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/smoothing-essence"/>
+    <title>Smoothing Essence</title>
+    <s:type>glow</s:type>
+    <s:vendor>glow-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>glow-ishi<br>
+        <strong>Type: </strong>glow<br>
+        <strong>Price: </strong>
+            44.00 - 46.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/smoothing-essence">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered List</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+<div class="custom-tab">
+<h4 class="title">About this item</h4>
+<div class="description">
+<table>
+<tbody>
+<tr>
+<th>Brand</th>
+<td>EverGlow</td>
+</tr>
+<tr>
+<th>Colour</th>
+<td>04 L.I.I.T - Party in a tiny pack!</td>
+</tr>
+<tr>
+<th>Finish Type</th>
+<td>Glossy</td>
+</tr>
+<tr>
+<th>Item Form</th>
+<td>Stick</td>
+</tr>
+<tr>
+<th>Skin Type</th>
+<td>Combination, Sensitive, Dry</td>
+</tr>
+<tr>
+<th>Item Dimensions LxWxH</th>
+<td>24.7 x 10.6 x 24.7 Centimeters</td>
+</tr>
+<tr>
+<th>Item Weight</th>
+<td>690 g</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div class="custom-tab">
+<h4 class="title">Additional Information</h4>
+<div class="description">
+<ul>
+<li><span> COSMETICS ARE NOT INCLUDED WITH BOX" Easily contain daily essentials in the 16 compartments. 12 small compartments make it convenient to store smaller items like lipsticks. The 4 large compartment is ample enough to store and organize multiple large perfume bottles, jewelleries, eyeliners, hair spray and makeup brushes.</span></li>
+<li><span> The perfect multi-purpose organizer for your bathroom counter or a deep drawer. This Vanity Organizer is the best choice. Clear the drawer clutter and keep your daily makeup essentials neatly organized.</span></li>
+<li><span> The lipstick organizer is for storage and organization of your cosmetics in your vanity, bathroom, bedroom, countertop. Also great as gift for Christmas, Valentine’s Day, Mother’s Day, birthdays, and others.</span></li>
+<li><span> Size : 21.2L x 12.5W x 7.8H cm :::: Material : plastic :::: Colour : Transparent </span></li>
+<li><span> Package Include : 1 x 16 Compartment Cosmetic Organiser :::: Note : Accessories Not Included (Nail Polish can not fit in 12 Small Compartment) </span></li>
+<li><span> Enriched with Vitamin E, Shea butter and Jojoba oil </span></li>
+<li><span> Protects lips from sun damage </span></li>
+<li><span> Keeps lips supple and moisturized </span></li>
+<li><span> Relieves dry, chapped lips </span></li>
+<li><span> In 7 awesome variants </span></li>
+</ul>
+</div>
+</div>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style>
+<style><!--
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+--></style></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty_skincare</s:tag>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>size_l</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+      <title>S / Pink</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+      <title>S / Blue</title>
+      <s:price currency="USD">44.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630847644</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+    <published>2021-04-29T08:17:02-04:00</published>
+    <updated>2021-04-29T08:17:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/precision-eyeliner"/>
+    <title>Precision Eyeliner</title>
+    <s:type>glow</s:type>
+    <s:vendor>glow-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/15_32a03f0b-a251-4f3c-9b13-614004cfaa1e.jpg?v=1631940126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>glow-ishi<br>
+        <strong>Type: </strong>glow<br>
+        <strong>Price: </strong>
+            75.00 - 77.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/precision-eyeliner">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty_fragrances</s:tag>
+    <s:tag>brand_yahoo</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_l</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+      <title>M / Purple</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+      <title>M / Gray</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+      <title>M / Red</title>
+      <s:price currency="USD">75.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+      <title>L / Purple</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+      <title>L / Gray</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+      <title>L / Red</title>
+      <s:price currency="USD">76.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+      <title>XL / Purple</title>
+      <s:price currency="USD">77.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+      <title>XL / Gray</title>
+      <s:price currency="USD">77.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708630028444</id>
+      <title>XL / Red</title>
+      <s:price currency="USD">77.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+    <published>2021-04-29T08:16:41-04:00</published>
+    <updated>2021-04-29T08:16:41-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/pencil-eyeliner"/>
+    <title>Pencil eyeliner</title>
+    <s:type>glow</s:type>
+    <s:vendor>glow-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/12_2c00fdc3-56b3-4abc-ba87-23cc72d43742.jpg?v=1631940050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>glow-ishi<br>
+        <strong>Type: </strong>glow<br>
+        <strong>Price: </strong>
+            32.00 - 34.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/pencil-eyeliner">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty_fragrances</s:tag>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>S / Red</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>S / Brown</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>S / Purple</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>M / Red</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>M / Brown</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>M / Purple</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>L / Red</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>L / Brown</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708629373084</id>
+      <title>L / Purple</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6708628488348</id>
+    <published>2021-04-29T08:16:22-04:00</published>
+    <updated>2021-04-29T08:16:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/liquid-lipstick"/>
+    <title>Liquid Lipstick</title>
+    <s:type>glow</s:type>
+    <s:vendor>glow-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/9_c08b529d-bac4-42d1-91af-579b69779716.jpg?v=1631939910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>glow-ishi<br>
+        <strong>Type: </strong>glow<br>
+        <strong>Price: </strong>
+            55.00 - 56.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/liquid-lipstick">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty_makeup</s:tag>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_yahoo</s:tag>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628488348</id>
+      <title>L / Orange</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628488348</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">56.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628488348</id>
+      <title>M / Orange</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628488348</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">55.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6708628160668</id>
+    <published>2021-04-29T08:16:15-04:00</published>
+    <updated>2021-04-29T08:16:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/leighton-remover"/>
+    <title>Leighton Remover</title>
+    <s:type>glow</s:type>
+    <s:vendor>glow-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/8_fe3edbb4-e804-4916-9fe0-8c39e4cd8bab.jpg?v=1631939888"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>glow-ishi<br>
+        <strong>Type: </strong>glow<br>
+        <strong>Price: </strong>
+            35.00 - 37.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/leighton-remover">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty_makeup</s:tag>
+    <s:tag>beauty_skincare</s:tag>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>color_yellow</s:tag>
+    <s:tag>size_l</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628160668</id>
+      <title>S / Skin</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628160668</id>
+      <title>S / Pink</title>
+      <s:price currency="USD">35.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628160668</id>
+      <title>M / Skin</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628160668</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">36.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628160668</id>
+      <title>L / Skin</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708628160668</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">37.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6708627439772</id>
+    <published>2021-04-29T08:16:02-04:00</published>
+    <updated>2021-04-29T08:16:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/gentle-face-wash"/>
+    <title>Gentle Face Wash</title>
+    <s:type>glow</s:type>
+    <s:vendor>glow-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/6_fb896b8c-2f46-433f-8991-f6d769ff209f.jpg?v=1631939818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>glow-ishi<br>
+        <strong>Type: </strong>glow<br>
+        <strong>Price: </strong>
+            45.00 - 46.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/gentle-face-wash">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty_makeup</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>size_l</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708627439772</id>
+      <title>L / Black</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708627439772</id>
+      <title>L / Red</title>
+      <s:price currency="USD">46.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708627439772</id>
+      <title>M / Black</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708627439772</id>
+      <title>M / Red</title>
+      <s:price currency="USD">45.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6708627308700</id>
+    <published>2021-04-29T08:15:56-04:00</published>
+    <updated>2021-04-29T08:15:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/facial-cleanser"/>
+    <title>Facial Cleanser</title>
+    <s:type>glow</s:type>
+    <s:vendor>glow-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/5_6c736277-cbbb-4d2b-8415-48aa991211cc.jpg?v=1631939561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>glow-ishi<br>
+        <strong>Type: </strong>glow<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty_skincare</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>size_l</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708627308700</id>
+      <title>Default Title</title>
+      <s:price currency="USD">20.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+    <published>2021-04-29T08:15:35-04:00</published>
+    <updated>2021-04-29T08:15:35-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/base-foundation"/>
+    <title>Base Foundation</title>
+    <s:type>glow</s:type>
+    <s:vendor>glow-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/2_d4cb9682-180c-4adf-b7f4-43b912a3f949.jpg?v=1631939440"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>glow-ishi<br>
+        <strong>Type: </strong>glow<br>
+        <strong>Price: </strong>
+            32.00 - 34.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/base-foundation">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty_fragrances</s:tag>
+    <s:tag>beauty_makeup</s:tag>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>color_blue</s:tag>
+    <s:tag>size_l</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+      <title>S / Pink</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+      <title>S / Red</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+      <title>S / Yellow</title>
+      <s:price currency="USD">32.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+      <title>M / Pink</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+      <title>M / Red</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+      <title>M / Yellow</title>
+      <s:price currency="USD">33.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+      <title>L / Pink</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+      <title>L / Red</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626587804</id>
+      <title>L / Yellow</title>
+      <s:price currency="USD">34.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+    <published>2021-04-29T08:15:27-04:00</published>
+    <updated>2021-04-29T08:15:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://choice-ishi.myshopify.com/ar/products/anti-aging-cream"/>
+    <title>Anti-Aging Cream</title>
+    <s:type>glow</s:type>
+    <s:vendor>glow-ishi</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0433/3790/8380/products/1_f497e587-67a9-4183-8c22-4705753cbf12.jpg?v=1631939384"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>glow-ishi<br>
+        <strong>Type: </strong>glow<br>
+        <strong>Price: </strong>
+            25.00 - 27.00
+            <a href="https://choice-ishi.myshopify.com/ar/products/anti-aging-cream">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
+<h4>Sample Unordered List</h4>
+<ul>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremou.</li>
+</ul>
+<h4>Sample Ordered Lista</h4>
+<ol>
+<li>Comodous in tempor ullamcorper miaculis</li>
+<li>Pellentesque vitae neque mollis urna mattis laoreet.</li>
+<li>Divamus sit amet purus justo.</li>
+<li>Proin molestie egestas orci ac suscipit risus posuere loremous.</li>
+</ol>
+<h4>Sample Paragraph Text</h4>
+<blockquote>
+<p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summe!</p>
+</blockquote>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>beauty_makeup</s:tag>
+    <s:tag>beauty_skincare</s:tag>
+    <s:tag>brand_lee</s:tag>
+    <s:tag>brand_zara</s:tag>
+    <s:tag>color_black</s:tag>
+    <s:tag>color_red</s:tag>
+    <s:tag>size_l</s:tag>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+      <title>M / Purple</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+      <title>M / Green</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+      <title>M / Blue</title>
+      <s:price currency="USD">25.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+      <title>L / Purple</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+      <title>L / Green</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+      <title>L / Blue</title>
+      <s:price currency="USD">26.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+      <title>XL / Purple</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+      <title>XL / Green</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://choice-ishi.myshopify.com/ar/products/6708626030748</id>
+      <title>XL / Blue</title>
+      <s:price currency="USD">27.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -8,13 +8,15 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <meta name="theme-color" content="">
-    <link rel="canonical" href="index.html">
+    <link rel="canonical" href="index.php">
     <link rel="preconnect" href="../cdn.shopify.com/index.php" crossorigin>
-    <link rel="icon" type="image/png" href="../cdn.shopify.com\s\files\1\0433\3790\8380\files\logo_1b0dbc1b-9689-4d2a-87c3-4016822eea01_large3acf.png?v=1629456101"><link rel="preconnect" href="../fonts.shopifycdn.com/index.html" crossorigin><title>
-Kipusa Beauty</title>   
+    <link rel="icon" type="image/png" href="../cdn.shopify.com\s\files\1\0433\3790\8380\files\logo_1b0dbc1b-9689-4d2a-87c3-4016822eea01_large3acf.png?v=1629456101">
+    <title>Kipusa Beauty</title>   
+    <link rel="preconnect" href="../fonts.shopifycdn.com/index.php" crossorigin>
+   
 
 <meta property="og:site_name" content="Kipusa Beauty">
-<meta property="og:url" content="index.html">
+<meta property="og:url" content="index.php">
 <meta property="og:title" content="Kipusa Beauty">
 <meta property="og:type" content="website">
 <meta property="og:description" content="Kipusa Beauty"><meta name="twitter:site" content="@/"><meta name="twitter:card" content="summary_large_image">
@@ -35,8 +37,8 @@ Kipusa Beauty</title>
     <script src="../cdn.shopify.com/s/files/1/0433/3790/8380/t/28/assets/lazysizes4045.js?v=16228223864333580386" defer="defer"></script>
     <script src="../cdn.shopify.com/s/files/1/0433/3790/8380/t/28/assets/shop4af8.js?v=10907351261973419575" defer="defer"></script>
     <script>window.performance && window.performance.mark && window.performance.mark('shopify.content_for_header.start');</script><meta id="shopify-digital-wallet" name="shopify-digital-wallet" content="/43337908380/digital_wallets/dialog">
-<link rel="alternate" hreflang="x-default" href="index.html">
-<link rel="alternate" hreflang="en-US" href="index.html">
+<link rel="alternate" hreflang="x-default" href="index.php">
+<link rel="alternate" hreflang="en-US" href="index.php">
 <!-- <link rel="alternate" hreflang="ar-US" href="ar.html"> -->
 <!-- <link rel="alternate" hreflang="es-US" href="es.html"> -->
 <script id="shopify-features" type="application/json">{"accessToken":"fedc16526b0957be86c8f6872b863615","betas":["rich-media-storefront-analytics"],"domain":"choice-ishi.myshopify.com","predictiveSearch":true,"shopId":43337908380,"smart_payment_buttons_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/spb.en.js","dynamic_checkout_cart_url":"https:\/\/cdn.shopify.com\/shopifycloud\/payment-sheet\/assets\/latest\/dynamic-checkout-cart.en.js","locale":"en"}</script>
@@ -50,7 +52,7 @@ Shopify.theme.handle = "null";
 Shopify.theme.style = {"id":null,"handle":null};
 Shopify.cdnHost = "cdn.shopify.com";
 Shopify.routes = Shopify.routes || {};
-Shopify.routes.root = "index.html";</script>
+Shopify.routes.root = "index.php";</script>
 <script type="module">!function(o){(o.Shopify=o.Shopify||{}).modules=!0}(window);</script>
 <script>!function(o){function n(){var o=[];function n(){o.push(Array.prototype.slice.apply(arguments))}return n.q=o,n}var t=o.Shopify=o.Shopify||{};t.loadFeatures=n(),t.autoloadFeatures=n()}(window);</script>
 <script>(function() {
@@ -335,7 +337,7 @@ Shopify.routes.root = "index.html";</script>
      
      
     <link href="../fonts.googleapis.com/cssa173.css?family=Mrs%20Saint%20Delafield:300,400,500,600,700,800" rel="stylesheet" type="text/css" media="all"><link rel="preload" as="font" href="../fonts.shopifycdn.com/poppins/poppins_n4.934accbf9f5987aa89334210e6c1e9151f37d3b60da4.woff2?&amp;hmac=a26c177067467710b799e13b71d5721f54b5f733f905988a09d37a77232f0126" type="font/woff2" crossorigin><script>document.documentElement.className = document.documentElement.className.replace('no-js', 'js');</script>
-  <link href="../monorail-edge.shopifysvc.com/index.html" rel="dns-prefetch">
+  <link href="../monorail-edge.shopifysvc.com/index.php" rel="dns-prefetch">
 <script>(function(){if ("sendBeacon" in navigator && "performance" in window) {var session_token = document.cookie.match(/_shopify_s=([^;]*)/);function handle_abandonment_event(e) {var entries = performance.getEntries().filter(function(entry) {return /monorail-edge.shopifysvc.com/.test(entry.name);});if (!window.abandonment_tracked && entries.length === 0) {window.abandonment_tracked = true;var currentMs = Date.now();var navigation_start = performance.timing.navigationStart;var payload = {shop_id: 43337908380,url: window.location.href,navigation_start,duration: currentMs - navigation_start,session_token: session_token && session_token.length === 2 ? session_token[1] : "",page_type: "index"};window.navigator.sendBeacon("../monorail-edge.shopifysvc.com/v1/produce", JSON.stringify({schema_id: "online_store_buyer_site_abandonment/1.1",payload: payload,metadata: {event_created_at_ms: currentMs,event_sent_at_ms: currentMs}}));}}window.addEventListener('pagehide', handle_abandonment_event);}}());</script>
 <script>window.ShopifyAnalytics = window.ShopifyAnalytics || {};
 window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
@@ -691,7 +693,7 @@ for (var attr in meta) {
                   
                   <div class="ishiofferblock-container">
                     <a href="collections/fragrances.html">
-                      <div class="heading">UP TO 50% OFF THE COSMETIC CREAM STORE!</div>
+                      <div class="heading">CONTACT US VIA +254740747537</div>
                     </a>
                   </div>
                   
@@ -701,7 +703,7 @@ for (var attr in meta) {
                   
                   <div class="ishiofferblock-container">
                     <a href="collections/make-up.html">
-                      <div class="heading">UP TO 50% OFF THE COSMETIC SOAP STORE!</div>
+                      <div class="heading">SOUL CARE RITUALS NOW AVAILABLE!</div>
                     </a>
                   </div>
                   
@@ -729,7 +731,7 @@ for (var attr in meta) {
             
             
             <div class="contact">
-              <a class="nav-icon" href="pages/contact.html">Contact</a>
+              <a class="nav-icon" href="pages/contact.php">Contact</a>
             </div>
             
             
@@ -1002,7 +1004,7 @@ for (var attr in meta) {
   <div id="ishi-register-panel" class="ishi-panel-data ishi-panel-data-slide">
     <h2>
      Create account
-    </h2><form method="post" action="https://choice-ishi.myshopify.com/account" id="create_customer" accept-charset="UTF-8" novalidate="novalidate"><input type="hidden" name="form_type" value="create_customer" /><input type="hidden" name="utf8" value="✓" /><div class="field">      
+    </h2><form method="post" action="" id="create_customer" accept-charset="UTF-8" novalidate="novalidate"><input type="hidden" name="form_type" value="create_customer" /><input type="hidden" name="utf8" value="✓" /><div class="field">      
       <input
         type="text"
         name="customer[first_name]"
@@ -1231,6 +1233,12 @@ for (var attr in meta) {
       "url": "https:\/\/choice-ishi.myshopify.com"
     }
   </script></div>
+
+  <!-- navigation bar snippet -->
+
+
+
+
           <div class="nav-height hidden-lg-down">
             <div class="navfullwidth">
               <div class="page-width">
@@ -1256,11 +1264,10 @@ for (var attr in meta) {
           </span>
           
         </span>
-        <a href="collections/fragrances.html" class="dropdown-item">
-          <h3 class="title">Glow</h3>
+        <a href="index.php" class="dropdown-item">
+          <h3 class="title">Home </h3>
           
-          <span class="new"> NEW</span>
-          
+          <!-- <span class="new"> NEW</span> -->        
           
           
         </a>
@@ -1272,7 +1279,7 @@ for (var attr in meta) {
           <ul id="top-menu-child" class="top-menu mainmenu-dropdown panel-group">
             
             <li class="sub-category panel">
-              <span class="float-xs-right hidden-lg-up">
+              <span class="float-xs-right hidden- lg-up">
                 
                 <span data-href="#_n_grand-child-one1" data-toggle="collapse" class="ishi-collapse in navbar-toggler ishi-collapsed rotate" aria-expanded="false" data-parent="#top-menu-child">
                  
@@ -1297,15 +1304,15 @@ for (var attr in meta) {
                   </li>
                   
                   <li class="category">
-                    <a href="index.html" class="dropdown-item"> Deodorants</a>
+                    <a href="index.php" class="dropdown-item"> Deodorants</a>
                   </li>
                   
                   <li class="category">
-                    <a href="index.html" class="dropdown-item">Body Mists</a>
+                    <a href="index.php" class="dropdown-item">Body Mists</a>
                   </li>
                   
                   <li class="category">
-                    <a href="index.html" class="dropdown-item"> Concealer</a>
+                    <a href="index.php" class="dropdown-item"> Concealer</a>
                   </li>
                   
                   <li class="category">
@@ -1365,7 +1372,7 @@ for (var attr in meta) {
                   </li>
                   
                   <li class="category">
-                    <a href="index.html" class="dropdown-item"> Perfumes</a>
+                    <a href="index.php" class="dropdown-item"> Perfumes</a>
                   </li>
                   
                   <li class="category">
@@ -1413,7 +1420,7 @@ for (var attr in meta) {
                 </li>
                 
                 <li class="category">
-                  <a href="index.html" class="dropdown-item">Sunscreen</a>
+                  <a href="index.php" class="dropdown-item">Sunscreen</a>
                 </li>
                 
                 <li class="category">
@@ -1439,7 +1446,7 @@ for (var attr in meta) {
           </li>
           
           
-          <li class="sub-category product_container hidden-lg-down">
+          <!-- <li class="sub-category product_container hidden-lg-down">
             
             <a href="products/cologne-spray.html" class="dropdown-item dropdown-submenu">
               <h3 class="inner-title">Special Product</h3>
@@ -1527,11 +1534,11 @@ for (var attr in meta) {
 
             </div>
             
-          </li>
+          </li> -->
           
         </ul>
         
-        <div class="img-container row">
+        <!-- <div class="img-container row">
           
           <div class="col-xs-6 imagecontainer1">
             
@@ -1566,7 +1573,7 @@ for (var attr in meta) {
             
           </div>
           
-      </div>
+      </div> -->
       
     </div>
     
@@ -1591,14 +1598,7 @@ for (var attr in meta) {
         </span>
         <a href="collections/fragrances.html" class="dropdown-item">
           <h3 class="title">Accessories</h3>
-          
-          
-          
-        </a>
-
-        
-        
-        
+          </a>
         <div class="popover sub-menu js-sub-menu ishi-collapse desktop-collapse" id="_n_child-one2">
           <ul id="top-menu-child" class="top-menu mainmenu-dropdown panel-group">
             
@@ -1628,15 +1628,15 @@ for (var attr in meta) {
                   </li>
                   
                   <li class="category">
-                    <a href="index.html" class="dropdown-item"> Deodorants</a>
+                    <a href="index.php" class="dropdown-item"> Deodorants</a>
                   </li>
                   
                   <li class="category">
-                    <a href="index.html" class="dropdown-item">Body Mists</a>
+                    <a href="index.php" class="dropdown-item">Body Mists</a>
                   </li>
                   
                   <li class="category">
-                    <a href="index.html" class="dropdown-item"> Concealer</a>
+                    <a href="index.php" class="dropdown-item"> Concealer</a>
                   </li>
                   
                   <li class="category">
@@ -1659,7 +1659,7 @@ for (var attr in meta) {
             
             
             
-          
+<!--           
           <li class="sub-category product_container hidden-lg-down">
             
             <a href="products/cologne-spray.html" class="dropdown-item dropdown-submenu">
@@ -1746,7 +1746,7 @@ for (var attr in meta) {
     </div>
 </div>
 
-            </div>
+            </div> -->
             
           </li>
           
@@ -1826,7 +1826,7 @@ for (var attr in meta) {
                   </li>
                   
                   <li class="category">
-                    <a href="index.html" class="dropdown-item"> Perfumes</a>
+                    <a href="index.php" class="dropdown-item"> Perfumes</a>
                   </li>
                   
                   <li class="category">
@@ -1874,7 +1874,7 @@ for (var attr in meta) {
                   </li>
                   
                   <li class="category">
-                    <a href="index.html" class="dropdown-item">Sunscreen</a>
+                    <a href="index.php" class="dropdown-item">Sunscreen</a>
                   </li>
                   
                   <li class="category">
@@ -1902,113 +1902,24 @@ for (var attr in meta) {
             
           
         </ul>
-        
-        <div class="img-container row">
-          
-          <div class="col-xs-12 imagecontainer1">
-            
-            <a href="collections/fragrances.html" class="link">
-              
-              <img 
-              class="feature-row__image lazyload"
-              data-src="//cdn.shopify.com/s/files/1/0433/3790/8380/files/Menu_Banner-3.png?v=1619761993"
-              data-widths="[180, 360, 540, 720, 900, 1080, 1296, 1512, 1728, 2048]"
-              data-aspectratio="3.04"
-              data-sizes="auto"
-              alt="Menu Banner Image">
-              
-            </a>
-            
-          </div>
-          
-          
-      </div>
+  
       
     </div>
     
     
   </li>
   
-        <li class="category">
+      <li class="category">
           
           <span class="float-xs-right hidden-lg-up">
            
-           <span data-href="#_n_child-one4" data-toggle="collapse" class="ishi-collapse in navbar-toggler ishi-collapsed rotate" aria-expanded="false">
-            
-  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"/>
-	</svg>
-
-
-
-
-          </span>
-          
         </span>
-        <a href="pages/faqs.html" class="dropdown-item">
-          <h3 class="title">Include Page</h3>
+        <a href="pages/contact.php" class="dropdown-item">
+          <h3 class="title">Contact</h3>
           
           
           
         </a>
-
-        
-        
-        
-        <div class="popover sub-menu js-sub-menu ishi-collapse desktop-collapse" id="_n_child-one4">
-          <ul id="top-menu-child" class="top-menu mainmenu-dropdown panel-group">
-            
-            <li class="sub-category panel">
-              <span class="float-xs-right hidden-lg-up">
-                
-                <span data-href="#_n_grand-child-one4" data-toggle="collapse" class="ishi-collapse in navbar-toggler ishi-collapsed rotate" aria-expanded="false" data-parent="#top-menu-child">
-                 
-  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"/>
-	</svg>
-
-
-
-
-                </span>
-                
-              </span>
-              <a href="collections/glow.html" class="dropdown-item dropdown-submenu">
-                <h3 class="inner-title">Pages</h3>
-              </a>
-              <div class="top-menu ishi-collapse desktop-collapse" id="_n_grand-child-one4">
-                <ul class="top-menu">
-                  
-                  <li class="category">
-                    <a href="pages/wishlist.html" class="dropdown-item">Wishlist</a>
-                  </li>
-                  
-                  <li class="category">
-                    <a href="abcd.html" class="dropdown-item">404</a>
-                  </li>
-                  
-                  <li class="category">
-                    <a href="pages/contact.html" class="dropdown-item">Contact</a>
-                  </li>
-                  
-                  <li class="category">
-                    <a href="pages/faqs.html" class="dropdown-item">FAQs</a>
-                  </li>
-                  
-                </ul>
-              </div>
-              
-              
-            </li>
-            
-            
-            
-          
-        </ul>
-        
-    </div>
-    
-    
   </li>
   
         <li class="category">
@@ -2016,10 +1927,9 @@ for (var attr in meta) {
           <span class="float-xs-right hidden-lg-up">
            
         </span>
-        <a href="pages/about-us.html" class="dropdown-item">
+        <a href="pages/about-us.php" class="dropdown-item">
           <h3 class="title">About Us</h3>
           
-          <span class="new"> NEW</span>
           
           
           
@@ -2048,18 +1958,10 @@ for (var attr in meta) {
         
     
   </li>
-  
-  
+
 </ul>
 </div>
 </div>
-
-
- 
-
-
-
-
 </div>
               </div>
             </div>
@@ -2196,7 +2098,8 @@ for (var attr in meta) {
 
 
 
-</section><section id="shopify-section-template--15146816241820__1630490368d905266b" class="shopify-section featured-product-section featured-product-section-style1"><div class="collection page-width">
+</section><section id="shopify-section-template--15146816241820__1630490368d905266b" class="shopify-section featured-product-section featured-product-section-style1">
+  <!-- <div class="collection page-width">
   
       <div class="section-header center">
         
@@ -4673,7 +4576,7 @@ Comodous in tempor...</div></div>
       
     </div>
   </div>
-</div>
+</div> -->
 
 <style type="text/css">
   #shopify-section-template--15146816241820__1630490368d905266b {
@@ -4712,7 +4615,7 @@ Comodous in tempor...</div></div>
                style="padding-bottom: 87.71929824561403%;">
             <img 
                class="lazyload" 
-               data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/files/story1d4f2.png?v=1618892186"
+               data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/files/story1d4f2.jpg?v=1618892186"
                alt="Story Image">
             </a>
           
@@ -4907,7 +4810,7 @@ Comodous in tempor...</div></div>
 </section><section id="shopify-section-template--15146816241820__1630564436c25e22a8" class="shopify-section testimonial-with-service">
 <div class="page-width">
   <div class="row">
-    <div class="ishitestimonial  col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <div class="ishitestimonial  col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
       <div class="testimonial-inner testimonial-color">
         
@@ -4935,26 +4838,25 @@ Comodous in tempor...</div></div>
             <div class="user-info">
               <div class="testimonial-img">
                 
-                <img 
+                <!-- <img 
                      data-src="//cdn.shopify.com/s/files/1/0433/3790/8380/files/t3_120x120.png?v=1595334701"
                      class="lazyload"
-                     alt="Testimonial Image">
+                     alt="Testimonial Image"> -->
                 
               </div>
               <div class="user-container">
                 <div class="desc">
                   
-                  <h3 class="user-name">Stephan Robot</h3>
+                  <h3 class="user-name">Parita</h3>             
                   
-                  
-                  <div class="user-designation">Web Designer</div>
+                  <!-- <div class="user-designation">Web Designer</div> -->
                   
                 </div>
               </div>
             </div>
             <div class="user-content">
               
-              <div class="user-description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p></div>
+              <div class="user-description"><p> "It is fantastic in clearing up congestion super fast without any irritation at all. There is no tingling sensation but you still get the benefit of clear glowing skin. This used along with her 20% Vit C serum I have found huge difference in my pigmentation on my cheeks and just overall glowing hydrated skin."</p></div>
               
             </div>
           </div>
@@ -4966,26 +4868,26 @@ Comodous in tempor...</div></div>
             <div class="user-info">
               <div class="testimonial-img">
                 
-                <img 
+                <!-- <img 
                      data-src="//cdn.shopify.com/s/files/1/0433/3790/8380/files/about2_120x120.jpg?v=1595408890"
                      class="lazyload"
                      alt="Testimonial Image">
-                
+                 -->
               </div>
               <div class="user-container">
                 <div class="desc">
                   
-                  <h3 class="user-name">Stephan Robot</h3>
+                  <h3 class="user-name">Payal </h3>
                   
                   
-                  <div class="user-designation">Web Designer</div>
+                  <!-- <div class="user-designation">Web Designer</div> -->
                   
                 </div>
               </div>
             </div>
             <div class="user-content">
               
-              <div class="user-description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p></div>
+              <div class="user-description"><p>"not once did I miss a LAA based serum, I noticed consistent improvement in the appearance of acne scars and overall brightening of the skin. If you have been looking for a gentle vitamin c serum that delivers results, I highly recommend checking this out." </p></div>
               
             </div>
           </div>
@@ -4996,46 +4898,38 @@ Comodous in tempor...</div></div>
 
             <div class="user-info">
               <div class="testimonial-img">
-                
+<!--                 
                 <img 
                      data-src="//cdn.shopify.com/s/files/1/0433/3790/8380/files/about_120x120.jpg?v=1595408897"
                      class="lazyload"
-                     alt="Testimonial Image">
+                     alt="Testimonial Image"> -->
                 
               </div>
               <div class="user-container">
                 <div class="desc">
                   
-                  <h3 class="user-name">Stephan Robot</h3>
+                  <h3 class="user-name">Pariyta </h3>
                   
                   
-                  <div class="user-designation">Web Designer</div>
+                  <!-- <div class="user-designation">Web Designer</div> -->
                   
                 </div>
               </div>
             </div>
             <div class="user-content">
               
-              <div class="user-description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Quis ipsum suspendisse ultrices gravida. Risus commodo viverra maecenas accumsan lacus vel facilisis. </p></div>
+              <div class="user-description"><p>"This was my go to for the last two months straight! I always apply my Vit C serum directly after cleansing my face before applying any other product. This serum really did brighten my skin giving it life! It also helps with healing the spots faster! I give about couple of minutes before I follow up with rest of my skincare. I am already missing it and would absolutely purchase it again!" </p></div>
               
             </div>
           </div>
           
-          
-          
-          
-          
-          
-          
-          
-          
-          
+      
         </div>
         
       </div>
     </div>
 
-    <div class="ishiservices col-lg-6 col-md-12 col-sm-12 col-xs-12">
+    <!-- <div class="ishiservices col-lg-6 col-md-12 col-sm-12 col-xs-12">
       
       <div class="ishiservices-content">
         <div class="service-block" id="services-template--15146816241820__1630564436c25e22a8">
@@ -5169,7 +5063,7 @@ Comodous in tempor...</div></div>
         </div>
       </div>
       
-    </div>
+    </div> -->
   </div>
 </div>
 
@@ -5200,52 +5094,42 @@ Comodous in tempor...</div></div>
     }
   }
 </style>
-
-
-
-
 </section><section id="shopify-section-template--15146816241820__16301526065e3d6703" class="shopify-section product-section single-product-section"><div class="page-width">
   
-    <div class="section-header center">
-      
-      <div class="sub-title sub_title_style1">New one</div>
-      
-      
-      <h2 class="title">Deal Of The Day</h2>
-      
+    <div class="section-header center">      
+      <div class="sub-title sub_title_style1">New one</div>        
+      <h2 class="title">Deal Of The Week</h2>      
     </div>
   
+
+
+
+
+
+
+    <!-- Start of product snippet -->
   <div class="row grid">
       <div class="grid__item product__media-wrapper col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <slider-component class="slider-mobile-gutter product--media--sticky">
           <a class="skip-to-content-link button visually-hidden" href="#ProductInfo-template--15146816241820__16301526065e3d6703">
             Skip to product information
           </a>
-          <ul id="main-media-container" class="single-product zoom"><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-23851414519964">
-                
+          <ul id="main-media-container" class="single-product zoom"><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-23851414519964">                
 
-<noscript><div class="product__media media" style="padding-top: 100.0%;">
-      <img
-        srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_288x.jpg?v=1631940507 288w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_576x.jpg?v=1631940507 576w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_550x.jpg?v=1631940507 550w,
-                
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507 1000w"
+<noscript>
+  <div class="product__media media" style="padding-top: 100.0%;">
+      <img    
         data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273af4a.jpg?v=1631940507"
         class="lazyload"
         sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
         loading="lazy"
         alt="Smoothing Essence"
       >
-    </div></noscript>
+    </div>
+  </noscript>
 
 <modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15146816241820__16301526065e3d6703"><div class="product__media media" style="padding-top: 100.0%;">
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_288x.jpg?v=1631940507 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_576x.jpg?v=1631940507 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_550x.jpg?v=1631940507 550w,
-              
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507 1000w"
+    <img     
       class="lazyload"
       data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273af4a.jpg?v=1631940507"
       sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
@@ -5253,341 +5137,29 @@ Comodous in tempor...</div></div>
       alt="Smoothing Essence"
       data-zoom-image="//cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507 "
     >
-  </div></modal-opener>
-              </li>
+  </div>
+</modal-opener>
+           </li>
             </ul>
-          <ul class="product__media-list grid owl-carousel" role="list"><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-23851414519964" data-media-type="image">
-              
-
-<noscript><div class="product__media media" style="padding-top: 100.0%;">
-      <img
-        srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_288x.jpg?v=1631940507 288w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_576x.jpg?v=1631940507 576w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_550x.jpg?v=1631940507 550w,
-                
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507 1000w"
-        data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273af4a.jpg?v=1631940507"
-        class="lazyload"
-        sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-        loading="lazy"
-        alt="Smoothing Essence"
-      >
-    </div></noscript>
-
-<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15146816241820__16301526065e3d6703"><div class="product__media media" style="padding-top: 100.0%;">
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_288x.jpg?v=1631940507 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_576x.jpg?v=1631940507 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273_550x.jpg?v=1631940507 550w,
-              
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507 1000w"
-      class="lazyload"
-      data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273af4a.jpg?v=1631940507"
-      sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-      loading="lazy"
-      alt="Smoothing Essence"
-      data-zoom-image="//cdn.shopify.com/s/files/1/0433/3790/8380/products/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507 "
-    >
-  </div></modal-opener>
-            </li><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-23851418615964" data-media-type="image">
-              
-
-<noscript><div class="product__media media" style="padding-top: 100.0%;">
-      <img
-        srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dede_288x.jpg?v=1631940507 288w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dede_576x.jpg?v=1631940507 576w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dede_550x.jpg?v=1631940507 550w,
-                
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dede.jpg?v=1631940507 1000w"
-        data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dedeaf4a.jpg?v=1631940507"
-        class="lazyload"
-        sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-        loading="lazy"
-        alt="Smoothing Essence"
-      >
-    </div></noscript>
-
-<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15146816241820__16301526065e3d6703"><div class="product__media media" style="padding-top: 100.0%;">
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dede_288x.jpg?v=1631940507 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dede_576x.jpg?v=1631940507 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dede_550x.jpg?v=1631940507 550w,
-              
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dede.jpg?v=1631940507 1000w"
-      class="lazyload"
-      data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dedeaf4a.jpg?v=1631940507"
-      sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-      loading="lazy"
-      alt="Smoothing Essence"
-      data-zoom-image="//cdn.shopify.com/s/files/1/0433/3790/8380/products/1_d5dce63e-8335-41f8-8055-727e7556dede.jpg?v=1631940507 "
-    >
-  </div></modal-opener>
-            </li><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-23851418648732" data-media-type="image">
-              
-
-<noscript><div class="product__media media" style="padding-top: 100.0%;">
-      <img
-        srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5_288x.jpg?v=1631940507 288w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5_576x.jpg?v=1631940507 576w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5_550x.jpg?v=1631940507 550w,
-                
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5.jpg?v=1631940507 1000w"
-        data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5af4a.jpg?v=1631940507"
-        class="lazyload"
-        sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-        loading="lazy"
-        alt="Smoothing Essence"
-      >
-    </div></noscript>
-
-<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15146816241820__16301526065e3d6703"><div class="product__media media" style="padding-top: 100.0%;">
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5_288x.jpg?v=1631940507 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5_576x.jpg?v=1631940507 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5_550x.jpg?v=1631940507 550w,
-              
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5.jpg?v=1631940507 1000w"
-      class="lazyload"
-      data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5af4a.jpg?v=1631940507"
-      sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-      loading="lazy"
-      alt="Smoothing Essence"
-      data-zoom-image="//cdn.shopify.com/s/files/1/0433/3790/8380/products/2_01c504ed-7587-4128-b885-c9498ae5ffa5.jpg?v=1631940507 "
-    >
-  </div></modal-opener>
-            </li><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-23851418681500" data-media-type="image">
-              
-
-<noscript><div class="product__media media" style="padding-top: 100.0%;">
-      <img
-        srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923e_288x.jpg?v=1631940507 288w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923e_576x.jpg?v=1631940507 576w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923e_550x.jpg?v=1631940507 550w,
-                
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923e.jpg?v=1631940507 1000w"
-        data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923eaf4a.jpg?v=1631940507"
-        class="lazyload"
-        sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-        loading="lazy"
-        alt="Smoothing Essence"
-      >
-    </div></noscript>
-
-<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15146816241820__16301526065e3d6703"><div class="product__media media" style="padding-top: 100.0%;">
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923e_288x.jpg?v=1631940507 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923e_576x.jpg?v=1631940507 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923e_550x.jpg?v=1631940507 550w,
-              
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923e.jpg?v=1631940507 1000w"
-      class="lazyload"
-      data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923eaf4a.jpg?v=1631940507"
-      sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-      loading="lazy"
-      alt="Smoothing Essence"
-      data-zoom-image="//cdn.shopify.com/s/files/1/0433/3790/8380/products/3_863694d1-2063-458a-b7b1-e4998f87923e.jpg?v=1631940507 "
-    >
-  </div></modal-opener>
-            </li><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-23851418714268" data-media-type="image">
-              
-
-<noscript><div class="product__media media" style="padding-top: 100.0%;">
-      <img
-        srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033_288x.jpg?v=1631940507 288w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033_576x.jpg?v=1631940507 576w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033_550x.jpg?v=1631940507 550w,
-                
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033.jpg?v=1631940507 1000w"
-        data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033af4a.jpg?v=1631940507"
-        class="lazyload"
-        sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-        loading="lazy"
-        alt="Smoothing Essence"
-      >
-    </div></noscript>
-
-<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15146816241820__16301526065e3d6703"><div class="product__media media" style="padding-top: 100.0%;">
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033_288x.jpg?v=1631940507 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033_576x.jpg?v=1631940507 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033_550x.jpg?v=1631940507 550w,
-              
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033.jpg?v=1631940507 1000w"
-      class="lazyload"
-      data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033af4a.jpg?v=1631940507"
-      sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-      loading="lazy"
-      alt="Smoothing Essence"
-      data-zoom-image="//cdn.shopify.com/s/files/1/0433/3790/8380/products/4_45341551-6930-4611-a01f-3b840bc5c033.jpg?v=1631940507 "
-    >
-  </div></modal-opener>
-            </li><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-23851418747036" data-media-type="image">
-              
-
-<noscript><div class="product__media media" style="padding-top: 100.0%;">
-      <img
-        srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72_288x.jpg?v=1631940507 288w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72_576x.jpg?v=1631940507 576w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72_550x.jpg?v=1631940507 550w,
-                
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72.jpg?v=1631940507 1000w"
-        data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72af4a.jpg?v=1631940507"
-        class="lazyload"
-        sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-        loading="lazy"
-        alt="Smoothing Essence"
-      >
-    </div></noscript>
-
-<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15146816241820__16301526065e3d6703"><div class="product__media media" style="padding-top: 100.0%;">
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72_288x.jpg?v=1631940507 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72_576x.jpg?v=1631940507 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72_550x.jpg?v=1631940507 550w,
-              
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72.jpg?v=1631940507 1000w"
-      class="lazyload"
-      data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72af4a.jpg?v=1631940507"
-      sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-      loading="lazy"
-      alt="Smoothing Essence"
-      data-zoom-image="//cdn.shopify.com/s/files/1/0433/3790/8380/products/5_fc315a12-60df-4d00-b00e-666041e0fd72.jpg?v=1631940507 "
-    >
-  </div></modal-opener>
-            </li><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-23851418779804" data-media-type="image">
-              
-
-<noscript><div class="product__media media" style="padding-top: 100.0%;">
-      <img
-        srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258_288x.jpg?v=1631940507 288w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258_576x.jpg?v=1631940507 576w,
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258_550x.jpg?v=1631940507 550w,
-                
-                //cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258.jpg?v=1631940507 1000w"
-        data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258af4a.jpg?v=1631940507"
-        class="lazyload"
-        sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-        loading="lazy"
-        alt="Smoothing Essence"
-      >
-    </div></noscript>
-
-<modal-opener class="product__modal-opener product__modal-opener--image no-js-hidden" data-modal="#ProductModal-template--15146816241820__16301526065e3d6703"><div class="product__media media" style="padding-top: 100.0%;">
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258_288x.jpg?v=1631940507 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258_576x.jpg?v=1631940507 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258_550x.jpg?v=1631940507 550w,
-              
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258.jpg?v=1631940507 1000w"
-      class="lazyload"
-      data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258af4a.jpg?v=1631940507"
-      sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-      loading="lazy"
-      alt="Smoothing Essence"
-      data-zoom-image="//cdn.shopify.com/s/files/1/0433/3790/8380/products/20_30c268d2-7a50-4b42-99fe-f0abae2fe258.jpg?v=1631940507 "
-    >
-  </div></modal-opener>
-            </li><li class="product__media-item grid__item" data-media-id="template--15146816241820__16301526065e3d6703-22033333780636" data-media-type="video">
-              
-
-<noscript><a href="../cdn.shopify.com/videos/c/vp/057a69ffc714406aabee1dc1c2c4ef86/057a69ffc714406aabee1dc1c2c4ef86.HD-720p-1.6Mbps.mp4" aria-label=" opens full screen video in same window.">
-      <span class="product__media-icon motion-reduce">
-	<svg aria-hidden="true" focusable="false" role="presentation" class="icon" viewBox="0 0 10 14">
-      	<svg x="0%" y="0%">
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M1.48177 0.814643C0.81532 0.448245 0 0.930414 0 1.69094V12.2081C0 12.991 0.858787 13.4702 1.52503 13.0592L10.5398 7.49813C11.1918 7.09588 11.1679 6.13985 10.4965 5.77075L1.48177 0.814643Z" fill="currentColor"/>
-  	</svg>
-  	</svg>
-
-
-
-</span>
-      <div class="product__media media" style="padding-top: 56.25%;">
-        <img
-          srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_288x.jpg?v=1620217562 288w,
-                  //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_576x.jpg?v=1620217562 576w,
-                  //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_550x.jpg?v=1620217562 550w,
-                  //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_1100x.jpg?v=1620217562 1100w,
-                  //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000.jpg?v=1620217562 1280w" 
-          data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.000000021f5.jpg?v=1620217562"
-          class="lazyload"
-          sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-          loading="lazy"
-          alt="Smoothing Essence"
-        >
-      </div>
-    </a></noscript>
-
-<modal-opener class="product__modal-opener product__modal-opener--video no-js-hidden" data-modal="#ProductModal-template--15146816241820__16301526065e3d6703"><span class="product__media-icon motion-reduce" aria-hidden="true">
-      
-	<svg aria-hidden="true" focusable="false" role="presentation" class="icon" viewBox="0 0 10 14">
-      	<svg x="0%" y="0%">
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M1.48177 0.814643C0.81532 0.448245 0 0.930414 0 1.69094V12.2081C0 12.991 0.858787 13.4702 1.52503 13.0592L10.5398 7.49813C11.1918 7.09588 11.1679 6.13985 10.4965 5.77075L1.48177 0.814643Z" fill="currentColor"/>
-  	</svg>
-  	</svg>
-
-
-
-
-    </span><div class="product__media media" style="padding-top: 56.25%;">
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_288x.jpg?v=1620217562 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_576x.jpg?v=1620217562 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_550x.jpg?v=1620217562 550w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_1100x.jpg?v=1620217562 1100w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000.jpg?v=1620217562 1280w"
-      class="lazyload"
-      data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.000000021f5.jpg?v=1620217562"
-      sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-      loading="lazy"
-      alt="Smoothing Essence"
-      data-zoom-image="//cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000.jpg?v=1620217562 "
-    >
-  </div></modal-opener><deferred-media class="deferred-media media no-js-hidden" style="padding-top: 56.21135469364812%" data-media-id="22033333780636"><button id="Deferred-Poster-Modal-22033333780636" class="deferred-media__poster" type="button">
-    <span class="deferred-media__poster-button motion-reduce"><span class="visually-hidden">Play video</span>
-           
-	<svg aria-hidden="true" focusable="false" role="presentation" class="icon" viewBox="0 0 10 14">
-      	<svg x="0%" y="0%">
-          <path fill-rule="evenodd" clip-rule="evenodd" d="M1.48177 0.814643C0.81532 0.448245 0 0.930414 0 1.69094V12.2081C0 12.991 0.858787 13.4702 1.52503 13.0592L10.5398 7.49813C11.1918 7.09588 11.1679 6.13985 10.4965 5.77075L1.48177 0.814643Z" fill="currentColor"/>
-  	</svg>
-  	</svg>
-
-
-
-
-</span>
-    <img
-      srcset="//cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_288x.jpg?v=1620217562 288w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_576x.jpg?v=1620217562 576w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_550x.jpg?v=1620217562 550w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_1100x.jpg?v=1620217562 1100w,
-              //cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000.jpg?v=1620217562 1280w"
-      data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.000000021f5.jpg?v=1620217562"
-      class="lazyload"
-      sizes="(min-width: 1200px) calc((1200px - 10rem) / 2), (min-width: 750px) calc((100vw - 11.5rem) / 2), calc(100vw - 4rem)"
-      loading="lazy"
-      alt="Smoothing Essence"
-    >
-  </button>
-  <template><video playsinline="playsinline" controls="controls" autoplay="autoplay" preload="none" alt="Smoothing Essence" muted="muted" aria-label="Smoothing Essence" poster="../cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_2048x21f5.jpg?v=1620217562"><source src="../cdn.shopify.com/videos/c/vp/057a69ffc714406aabee1dc1c2c4ef86/057a69ffc714406aabee1dc1c2c4ef86.m3u8" type="application/x-mpegURL"><source src="../cdn.shopify.com/videos/c/vp/057a69ffc714406aabee1dc1c2c4ef86/057a69ffc714406aabee1dc1c2c4ef86.HD-720p-1.6Mbps.mp4" type="video/mp4"><img src="../cdn.shopify.com/s/files/1/0433/3790/8380/products/057a69ffc714406aabee1dc1c2c4ef86.thumbnail.0000000_2048x21f5.jpg?v=1620217562"></video></template></deferred-media>
-            </li></ul>
         </slider-component></div>
-      <div class="product__info-wrapper grid__item col-lg-6 col-md-6 col-sm-12 col-xs-12">
+      
+        <div class="product__info-wrapper grid__item col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div id="ProductInfo-template--15146816241820__16301526065e3d6703" class="product__info-container"><a href="products/smoothing-essence.html" class="product__title" style="margin-bottom: 10px;">
-                Smoothing Essence
+                Name of product
               </a><div class="review" style="margin-bottom: 5px;">
                 <span class="shopify-product-reviews-badge" data-id="6708630847644"></span>
                 
-                <a href="javascript:void(0);" class="write_comment">Write Review<i class="fa fa-pencil" aria-hidden="true"></i></a>
+                <!-- <a href="javascript:void(0);" class="write_comment">Write Review<i class="fa fa-pencil" aria-hidden="true"></i></a> -->
               </div><div class="product-price" style="margin-bottom: 5px;">
                 <div class="no-js-hidden" role="status" id="price-template--15146816241820__16301526065e3d6703" >
 <div class="price price--large price--on-sale ">
   <dl><div class="price__regular">
       <dt>
-        <span class="visually-hidden visually-hidden--inline">Regular price</span>
+        <span class="visually-hidden visually-hidden--inline">discounted price</span>
       </dt>
       <dd >
         <span class="price-item price-item--regular">
-          $44.00
+          Ksh. 44.00
         </span>
       </dd>
     </div>
@@ -5598,7 +5170,7 @@ Comodous in tempor...</div></div>
       <dd class="price__compare">
         <s class="price-item price-item--regular">
           
-            $45.00
+            Ksh. 45.00
           
         </s>
       </dd>
@@ -5607,7 +5179,7 @@ Comodous in tempor...</div></div>
       </dt>
       <dd >
         <span class="price-item price-item--sale">
-          $44.00
+          Ksh. 44.00
         </span>
       </dd>
     </div>
@@ -5623,306 +5195,75 @@ Comodous in tempor...</div></div>
     </small>
   </dl>
 </div>
-</div><div >
-                  
-<form method="post" action="https://choice-ishi.myshopify.com/cart/add" id="product-form-installment" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="39827907870876">
-                    
-</form>
+</div>
+<div>
+   
+
+<!-- add action location for the products -->
+<form method="post" action="https://choice-ishi.myshopify.com/cart/add" id="product-form-installment" accept-charset="UTF-8" class="installment caption-large" enctype="multipart/form-data">
+  <input type="hidden" name="form_type" value="product" />
+  <input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="39827907870876">            
+
                 </div>
+              </div>            
+              <div class="product-information" style="margin-bottom: 10px;">                  
+                    <p itemprop="brand" class="product-single__vendor" style="margin-bottom: 10px;">Vendor : <span>Vendor name</span></p>                  
+                    <p itemprop="brand" class="product-single__vendor" style="margin-bottom: 10px;">Product Type : <span>Product type here</span></p>
               </div>
-            
-              <div class="product-information" style="margin-bottom: 10px;">
-                  
-                    <p itemprop="brand" class="product-single__vendor" style="margin-bottom: 10px;">Vendor : <span>glow-ishi</span></p>
-                   
-                  
-                    <p itemprop="brand" class="product-single__vendor" style="margin-bottom: 10px;">Product Type : <span>glow</span></p>
-                  
-                   
-              </div><div class="wishlist-sizechart" style="margin-bottom: 15px;">
-                
+              <div class="wishlist-sizechart" style="margin-bottom: 15px;">                
                     <div class="add-to-wishlist">     
 <div class="show">
-  <div class="default-wishbutton-smoothing-essence loading"><a class="add-in-wishlist-js btn" data-href="smoothing-essence"><i class="fa fa-heart"></i><span class="tooltip-label">Add to wishlist</span></a></div>
- <div class="loadding-wishbutton-smoothing-essence loading btn loader-btn" style="display: none; pointer-events: none"><a class="add_to_wishlist" data-href="smoothing-essence"><i class="fa fa-circle-o-notch fa-spin"></i><span class="tooltip-label">Add to wishlist</span></a></div>
-  <div class="added-wishbutton-smoothing-essence loading" style="display: none;"><a class="added-wishlist btn add_to_wishlist" href="pages/wishlist.html"><i class="fa fa-heart"></i><span class="tooltip-label">View Wishlist</span></a></div>
+  <div class="default-wishbutton-smoothing-essence loading">
+    <a class="add-in-wishlist-js btn" data-href="smoothing-essence">
+      <i class="fa fa-heart"></i>
+      <span class="tooltip-label">Add to wishlist</span>
+    </a>
+  </div>
+ <div class="loadding-wishbutton-smoothing-essence loading btn loader-btn" style="display: none; pointer-events: none">
+ <a class="add_to_wishlist" data-href="smoothing-essence">
+   <i class="fa fa-circle-o-notch fa-spin">
+      </i><span class="tooltip-label">
+     Add to wishlist
+    </span>
+    </a>
+    </div>
+  <div class="added-wishbutton-smoothing-essence loading" style="display: none;">
+  <a class="added-wishlist btn add_to_wishlist" href="pages/wishlist.html">
+    <i class="fa fa-heart"></i>
+  <span class="tooltip-label">View Wishlist</span>
+</a>
+</div>
 </div>
  </div>
-                
-                 
-                <ishimodal-opener class="product-popup-modal__opener no-js-hidden size-chart" data-modal="#PopupModal-16301526065e3d6703-4" >
-                 
-	<svg aria-hidden="true" focusable="false" role="presentation" class="icon" viewBox="0 0 640 512">          
-  	<svg x="0%" y="4%">
-<path fill="currentColor" d="M608 128H32c-17.67 0-32 14.33-32 32v192c0 17.67 14.33 32 32 32h576c17.67 0 32-14.33 32-32V160c0-17.67-14.33-32-32-32zm-16 208H48V176h64v56c0 4.42 3.58 8 8 8h16c4.42 0 8-3.58 8-8v-56h64v56c0 4.42 3.58 8 8 8h16c4.42 0 8-3.58 8-8v-56h64v56c0 4.42 3.58 8 8 8h16c4.42 0 8-3.58 8-8v-56h64v56c0 4.42 3.58 8 8 8h16c4.42 0 8-3.58 8-8v-56h64v56c0 4.42 3.58 8 8 8h16c4.42 0 8-3.58 8-8v-56h64v160z"></path>
-	</svg>
-</svg>
-
-
-
-
-                  <div id="ProductPopup-16301526065e3d6703-4" class="ishi-popup-modal__button link" type="button" aria-haspopup="dialog" data-href="#PopupModal-16301526065e3d6703-4" data-toggle="popover" aria-expanded="false">Sizechart</div>
-                </ishimodal-opener>
-                <a href="pages/sizechart.html" class="ishi-popup-modal__button link no-js">Sizechart</a>
-                
-              </div>
-              
-              
-
-              
-              
-              
-
-              
-              <div class="product-container" data-counter="2024-05-15 00:00:00" data-deal="1" style="margin-bottom: 10px;">
-                <div class="countdowncontainer">
-                  <div class="countdown">
-                    <div class="countdown-days data">00</div>
-                    <div class="text">Days</div>
-                  </div>
-                  <div class="countdown">
-                    <div class="countdown-hours data">00</div>
-                    <div class="text">Hours</div>
-                  </div>
-                  <div class="countdown">
-                    <div class="countdown-minutes data">00</div>
-                    <div class="text">Mins</div>
-                  </div>
-                  <div class="countdown">
-                    <div class="countdown-seconds data">00</div>
-                    <div class="text">Secs</div>
-                  </div>
-                </div>  
-              </div>
-              
-<div class="ishi-progress-space" style="margin-bottom: 10px;"><div class="ishi-progress-content" data-quantity="10">
-                    <div class="quantity-value">
-                      Hurry! Only
-                      <div id="variant-stock" class="variant_quantity">
-                        8
-                      </div>
-                      units left in stock!
-                    </div>
-                    <div id="ishi-progress-bar">
-                      <span></span>
-                    </div>
-                  </div>
-                  
-                    <span id="variant-39827907870876" data-stock="8" class="selected-variant" ></span>
-                  
-                    <span id="variant-39827907903644" data-stock="7" ></span>
-                  
-                    <span id="variant-39827907936412" data-stock="10" ></span>
-                  
-                    <span id="variant-39827907969180" data-stock="5" ></span>
-                  
-                    <span id="variant-39827908001948" data-stock="4" ></span>
-                  
-                    <span id="variant-39827908034716" data-stock="8" ></span>
-                  
-                    <span id="variant-39827908067484" data-stock="3" ></span>
-                  
-                    <span id="variant-39827908100252" data-stock="2" ></span>
-                  
-                    <span id="variant-39827908133020" data-stock="1" ></span>
-                  
-              </div><div class="variant-space" style="margin-bottom: 10px;"><variant-radios class="no-js-hidden" data-section="template--15146816241820__16301526065e3d6703" data-url="/products/smoothing-essence" ><fieldset class="js product-form__input size">
-                            <legend class="form__label">Size</legend><input type="radio" id="template--15146816241820__16301526065e3d6703-1-0"
-                                    name="Size"
-                                    value="S"
-                                    form="product-form-template--15146816241820__16301526065e3d6703"
-                                    checked
-                              >
-                            
-                              <label for="template--15146816241820__16301526065e3d6703-1-0"class="square">
-                                S
-                              </label>
-                            
-<input type="radio" id="template--15146816241820__16301526065e3d6703-1-1"
-                                    name="Size"
-                                    value="M"
-                                    form="product-form-template--15146816241820__16301526065e3d6703"
-                                    
-                              >
-                            
-                              <label for="template--15146816241820__16301526065e3d6703-1-1"class="square">
-                                M
-                              </label>
-                            
-<input type="radio" id="template--15146816241820__16301526065e3d6703-1-2"
-                                    name="Size"
-                                    value="L"
-                                    form="product-form-template--15146816241820__16301526065e3d6703"
-                                    
-                              >
-                            
-                              <label for="template--15146816241820__16301526065e3d6703-1-2"class="square">
-                                L
-                              </label>
-                            
-</fieldset><fieldset class="js product-form__input color">
-                            <legend class="form__label">Color</legend><input type="radio" id="template--15146816241820__16301526065e3d6703-2-0"
-                                    name="Color"
-                                    value="Yellow"
-                                    form="product-form-template--15146816241820__16301526065e3d6703"
-                                    checked
-                              >
-                            
-                              <label for="template--15146816241820__16301526065e3d6703-2-0"
-                                     style="background-color: yellow; ">
-                              </label>
-                            
-<input type="radio" id="template--15146816241820__16301526065e3d6703-2-1"
-                                    name="Color"
-                                    value="Pink"
-                                    form="product-form-template--15146816241820__16301526065e3d6703"
-                                    
-                              >
-                            
-                              <label for="template--15146816241820__16301526065e3d6703-2-1"
-                                     style="background-color: pink; ">
-                              </label>
-                            
-<input type="radio" id="template--15146816241820__16301526065e3d6703-2-2"
-                                    name="Color"
-                                    value="Blue"
-                                    form="product-form-template--15146816241820__16301526065e3d6703"
-                                    
-                              >
-                            
-                              <label for="template--15146816241820__16301526065e3d6703-2-2"
-                                     style="background-color: blue; ">
-                              </label>
-                            
-</fieldset><script type="application/json">
-                        [{"id":39827907870876,"title":"S \/ Yellow","option1":"S","option2":"Yellow","option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":{"id":31522025210012,"product_id":6708630847644,"position":1,"created_at":"2021-09-18T00:48:04-04:00","updated_at":"2021-09-18T00:48:27-04:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507","variant_ids":[39827907870876,39827908100252]},"available":true,"name":"Smoothing Essence - S \/ Yellow","public_title":"S \/ Yellow","options":["S","Yellow"],"price":4400,"weight":0,"compare_at_price":4500,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":23851414519964,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507"}}},{"id":39827907903644,"title":"S \/ Pink","option1":"S","option2":"Pink","option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":{"id":31522030092444,"product_id":6708630847644,"position":2,"created_at":"2021-09-18T00:48:26-04:00","updated_at":"2021-09-18T00:48:27-04:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/1_d5dce63e-8335-41f8-8055-727e7556dede.jpg?v=1631940507","variant_ids":[39827907903644,39827908133020]},"available":true,"name":"Smoothing Essence - S \/ Pink","public_title":"S \/ Pink","options":["S","Pink"],"price":4400,"weight":0,"compare_at_price":4500,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":23851418615964,"position":2,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/1_d5dce63e-8335-41f8-8055-727e7556dede.jpg?v=1631940507"}}},{"id":39827907936412,"title":"S \/ Blue","option1":"S","option2":"Blue","option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":{"id":31522030223516,"product_id":6708630847644,"position":3,"created_at":"2021-09-18T00:48:26-04:00","updated_at":"2021-09-18T00:48:27-04:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/2_01c504ed-7587-4128-b885-c9498ae5ffa5.jpg?v=1631940507","variant_ids":[39827907936412]},"available":true,"name":"Smoothing Essence - S \/ Blue","public_title":"S \/ Blue","options":["S","Blue"],"price":4400,"weight":0,"compare_at_price":4500,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":23851418648732,"position":3,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/2_01c504ed-7587-4128-b885-c9498ae5ffa5.jpg?v=1631940507"}}},{"id":39827907969180,"title":"M \/ Yellow","option1":"M","option2":"Yellow","option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":{"id":31522029895836,"product_id":6708630847644,"position":4,"created_at":"2021-09-18T00:48:25-04:00","updated_at":"2021-09-18T00:48:27-04:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/3_863694d1-2063-458a-b7b1-e4998f87923e.jpg?v=1631940507","variant_ids":[39827907969180]},"available":true,"name":"Smoothing Essence - M \/ Yellow","public_title":"M \/ Yellow","options":["M","Yellow"],"price":4500,"weight":0,"compare_at_price":4500,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":23851418681500,"position":4,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/3_863694d1-2063-458a-b7b1-e4998f87923e.jpg?v=1631940507"}}},{"id":39827908001948,"title":"M \/ Pink","option1":"M","option2":"Pink","option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":{"id":31522030190748,"product_id":6708630847644,"position":5,"created_at":"2021-09-18T00:48:26-04:00","updated_at":"2021-09-18T00:48:27-04:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/4_45341551-6930-4611-a01f-3b840bc5c033.jpg?v=1631940507","variant_ids":[39827908001948]},"available":true,"name":"Smoothing Essence - M \/ Pink","public_title":"M \/ Pink","options":["M","Pink"],"price":4500,"weight":0,"compare_at_price":4500,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":23851418714268,"position":5,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/4_45341551-6930-4611-a01f-3b840bc5c033.jpg?v=1631940507"}}},{"id":39827908034716,"title":"M \/ Blue","option1":"M","option2":"Blue","option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":{"id":31522030452892,"product_id":6708630847644,"position":6,"created_at":"2021-09-18T00:48:26-04:00","updated_at":"2021-09-18T00:48:27-04:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/5_fc315a12-60df-4d00-b00e-666041e0fd72.jpg?v=1631940507","variant_ids":[39827908034716]},"available":true,"name":"Smoothing Essence - M \/ Blue","public_title":"M \/ Blue","options":["M","Blue"],"price":4500,"weight":0,"compare_at_price":4500,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":23851418747036,"position":6,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/5_fc315a12-60df-4d00-b00e-666041e0fd72.jpg?v=1631940507"}}},{"id":39827908067484,"title":"L \/ Yellow","option1":"L","option2":"Yellow","option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":{"id":31522029600924,"product_id":6708630847644,"position":7,"created_at":"2021-09-18T00:48:25-04:00","updated_at":"2021-09-18T00:48:27-04:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/20_30c268d2-7a50-4b42-99fe-f0abae2fe258.jpg?v=1631940507","variant_ids":[39827908067484]},"available":true,"name":"Smoothing Essence - L \/ Yellow","public_title":"L \/ Yellow","options":["L","Yellow"],"price":4600,"weight":0,"compare_at_price":4500,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":23851418779804,"position":7,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/20_30c268d2-7a50-4b42-99fe-f0abae2fe258.jpg?v=1631940507"}}},{"id":39827908100252,"title":"L \/ Pink","option1":"L","option2":"Pink","option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":{"id":31522025210012,"product_id":6708630847644,"position":1,"created_at":"2021-09-18T00:48:04-04:00","updated_at":"2021-09-18T00:48:27-04:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507","variant_ids":[39827907870876,39827908100252]},"available":true,"name":"Smoothing Essence - L \/ Pink","public_title":"L \/ Pink","options":["L","Pink"],"price":4600,"weight":0,"compare_at_price":4500,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":23851414519964,"position":1,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/19_fdbb58aa-0c23-48c0-9d12-843d63bc8273.jpg?v=1631940507"}}},{"id":39827908133020,"title":"L \/ Blue","option1":"L","option2":"Blue","option3":null,"sku":"","requires_shipping":true,"taxable":true,"featured_image":{"id":31522030092444,"product_id":6708630847644,"position":2,"created_at":"2021-09-18T00:48:26-04:00","updated_at":"2021-09-18T00:48:27-04:00","alt":null,"width":1000,"height":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/1_d5dce63e-8335-41f8-8055-727e7556dede.jpg?v=1631940507","variant_ids":[39827907903644,39827908133020]},"available":true,"name":"Smoothing Essence - L \/ Blue","public_title":"L \/ Blue","options":["L","Blue"],"price":4600,"weight":0,"compare_at_price":4500,"inventory_management":"shopify","barcode":"","featured_media":{"alt":null,"id":23851418615964,"position":2,"preview_image":{"aspect_ratio":1.0,"height":1000,"width":1000,"src":"https:\/\/cdn.shopify.com\/s\/files\/1\/0433\/3790\/8380\/products\/1_d5dce63e-8335-41f8-8055-727e7556dede.jpg?v=1631940507"}}}]
-                      </script>
-                    </variant-radios><noscript class="product-form__noscript-wrapper-template--15146816241820__16301526065e3d6703">
-                  <div class="product-form__input">
-                    <label class="form__label" for="Variants-template--15146816241820__16301526065e3d6703">Product variants</label>
-                    <div class="select">
-                      <select name="id" id="Variants-template--15146816241820__16301526065e3d6703" class="select__select" form="product-form-template--15146816241820__16301526065e3d6703"><option
-                            selected="selected"
-                            
-                            value="39827907870876"
-                          >
-                            S / Yellow
-
-                            - $44.00
-                          </option><option
-                            
-                            
-                            value="39827907903644"
-                          >
-                            S / Pink
-
-                            - $44.00
-                          </option><option
-                            
-                            
-                            value="39827907936412"
-                          >
-                            S / Blue
-
-                            - $44.00
-                          </option><option
-                            
-                            
-                            value="39827907969180"
-                          >
-                            M / Yellow
-
-                            - $45.00
-                          </option><option
-                            
-                            
-                            value="39827908001948"
-                          >
-                            M / Pink
-
-                            - $45.00
-                          </option><option
-                            
-                            
-                            value="39827908034716"
-                          >
-                            M / Blue
-
-                            - $45.00
-                          </option><option
-                            
-                            
-                            value="39827908067484"
-                          >
-                            L / Yellow
-
-                            - $46.00
-                          </option><option
-                            
-                            
-                            value="39827908100252"
-                          >
-                            L / Pink
-
-                            - $46.00
-                          </option><option
-                            
-                            
-                            value="39827908133020"
-                          >
-                            L / Blue
-
-                            - $46.00
-                          </option></select>
-                       
-  <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-caret" viewBox="0 0 10 6">
-    <path fill-rule="evenodd" clip-rule="evenodd" d="M9.354.646a.5.5 0 00-.708 0L5 4.293 1.354.646a.5.5 0 00-.708.708l4 4a.5.5 0 00.708 0l4-4a.5.5 0 000-.708z" fill="currentColor"/>
-	</svg>
-
-
-
-
-                    </div>
-                  </div>
-                </noscript>
-            </div><div class="product-form__input product-form__quantity" style="margin-bottom: 20px;" >
+</div>
+<div class="product-form__input product-form__quantity" style="margin-bottom: 20px;" > 
                 <label class="form__label" for="Quantity-template--15146816241820__16301526065e3d6703">
                   Quantity
                 </label>
                 <quantity-input class="quantity">
                   <button class="quantity__button no-js-hidden" name="minus" type="button">
-                    <span class="visually-hidden">Decrease quantity for Smoothing Essence</span>
+                    <span class="visually-hidden">Decrease quantity</span>
                      
 	<svg aria-hidden="true" focusable="false" role="presentation" viewBox="0 0 10 2" class="icon">
       	<svg x="0%" y="0%">
          <path fill-rule="evenodd" clip-rule="evenodd" d="M.5 1C.5.7.7.5 1 .5h8a.5.5 0 110 1H1A.5.5 0 01.5 1z" fill="currentColor"/>
   	</svg>
-  	</svg>
-
-
-
-
-                  </button>
+  	</svg>       </button>
                   <input class="quantity__input"
                       type="number"
                       name="quantity"
                       id="Quantity-template--15146816241820__16301526065e3d6703"
                       min="1"
                       value="1"
-                      form="product-form-template--15146816241820__16301526065e3d6703"
-                    >
+                      form="product-form-template--15146816241820__16301526065e3d6703">
                   <button class="quantity__button no-js-hidden" name="plus" type="button">
-                    <span class="visually-hidden">Increase quantity for Smoothing Essence</span>
+                    <span class="visually-hidden">Increase quantity</span>
                     
 	<svg aria-hidden="true" focusable="false" role="presentation" class="icon" viewBox="0 0 10 10">
       	<svg x="0%" y="0%">
            <path fill-rule="evenodd" clip-rule="evenodd" d="M1 4.51a.5.5 0 000 1h3.5l.01 3.5a.5.5 0 001-.01V5.5l3.5-.01a.5.5 0 00-.01-1H5.5L5.49.99a.5.5 0 00-1 .01v3.5l-3.5.01H1z" fill="currentColor"/>
   	</svg>
   	</svg>
-
-
-
-
                   </button>
                 </quantity-input>
               </div><div class="buy-btn-space" style="margin-bottom: 20px;">
@@ -5939,23 +5280,31 @@ Comodous in tempor...</div></div>
           <path d="M5.87413 3.52832L5.97439 7.57216H7.02713L7.12739 3.52832H5.87413ZM6.50076 9.66091C6.88091 9.66091 7.18169 9.37267 7.18169 9.00504C7.18169 8.63742 6.88091 8.34917 6.50076 8.34917C6.12061 8.34917 5.81982 8.63742 5.81982 9.00504C5.81982 9.37267 6.12061 9.66091 6.50076 9.66091Z" fill="white"/>
           <path d="M5.87413 3.17832H5.51535L5.52424 3.537L5.6245 7.58083L5.63296 7.92216H5.97439H7.02713H7.36856L7.37702 7.58083L7.47728 3.537L7.48617 3.17832H7.12739H5.87413ZM6.50076 10.0109C7.06121 10.0109 7.5317 9.57872 7.5317 9.00504C7.5317 8.43137 7.06121 7.99918 6.50076 7.99918C5.94031 7.99918 5.46982 8.43137 5.46982 9.00504C5.46982 9.57872 5.94031 10.0109 6.50076 10.0109Z" fill="white" stroke="#EB001B" stroke-width="0.7"/>
   	</svg>
-  	</svg>
-
-
-
-
-                    <span class="product-form__error-message"></span>
-                  </div><form method="post" action="https://choice-ishi.myshopify.com/cart/add" id="product-form-template--15146816241820__16301526065e3d6703" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form"><input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="id" value="39827907870876">
+  	</svg>      
+    
+    <!-- Put action for for cart calculations -->
+    
+    <span class="product-form__error-message"></span>
+                  </div>
+                  <form method="post" action=" " id="product-form-template--15146816241820__16301526065e3d6703" accept-charset="UTF-8" class="form" enctype="multipart/form-data" novalidate="novalidate" data-type="add-to-cart-form">
+                    <input type="hidden" name="form_type" value="product" />
+                  <input type="hidden" name="utf8" value="✓" />
+                  <input type="hidden" name="id" value="39827907870876">
                     <div class="product-form__buttons">
                       <button
                         type="submit"
                         name="add"
                         class="product-form__submit button button--full-width" 
                         >ADD TO CART
-</button><div data-shopify="payment-button" data-has-selling-plan="false" class="shopify-payment-button"><button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button><button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button></div>
-</div></form>
-                </product-form>
-
+</button>
+<div data-shopify="payment-button" data-has-selling-plan="false" class="shopify-payment-button">
+  <button class="shopify-payment-button__button shopify-payment-button__button--unbranded shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true">
+     </button>
+    <button class="shopify-payment-button__more-options shopify-payment-button__button--hidden" disabled="disabled" aria-hidden="true"> </button>
+  </div>
+</div>
+</form>
+                </product-form>`
                 <link href="../cdn.shopify.com/s/files/1/0433/3790/8380/t/28/assets/component-pickup-availability4be9.css?v=8671035028598240911" rel="stylesheet" type="text/css" media="all" />
 <pickup-availability class="product__pickup-availabilities no-js-hidden"
                   
@@ -5992,12 +5341,13 @@ Comodous in tempor...</div></div>
                       
                       <div class="reassurance-img">
                         <img class="lazyload" data-src="//cdn.shopify.com/s/files/1/0433/3790/8380/files/serviceicon1.png?v=1620218589" alt="Reassurance Image">
+                        </form>
                       </div>
                       
                       
                       <div class="reassurance-text">
                         
-                        <div class="reassurance-title">Free Delivery</div>
+                        <div class="reassurance-title">LowDelivery Charge</div>
                          
                         
                         <div class="reassurance-desc">Lorem Ipsum dummy</div>
@@ -6059,16 +5409,23 @@ Comodous in tempor...</div></div>
                   </div>
                 </div>
               </div>
-              <div class="trusted-img" style="margin-bottom: 10px;">
+              <!-- <div class="trusted-img" style="margin-bottom: 10px;">
             <img 
                  class="lazyload"
                  data-src="../cdn.shopify.com/s/files/1/0433/3790/8380/files/trust85cc.png?v=1619431967"
                   alt="Trusted Image">
-            </div>
+            </div> -->
                 
 </div>
       </div>
   </div>
+
+<!-- Product Page snippet -->
+
+
+
+
+
   <product-modal id="ProductModal-template--15146816241820__16301526065e3d6703" class="product-media-modal media-modal">
     <div class="product-media-modal__dialog" role="dialog" aria-label="Media gallery" aria-modal="true" tabindex="-1">
       <button id="ModalClose-template--15146816241820__16301526065e3d6703" type="button" class="product-media-modal__toggle" aria-label="Close">
@@ -6085,117 +5442,26 @@ Comodous in tempor...</div></div>
   </product-modal>
 
   
-<ishimodal-dialog id="PopupModal-16301526065e3d6703-4" class="product-popup-modal toggle-dropdown" >
+<!-- <ishimodal-dialog id="PopupModal-16301526065e3d6703-4" class="product-popup-modal toggle-dropdown" >
       <div role="dialog" aria-label="Sizechart" aria-modal="true" class="product-popup-modal__content" tabindex="-1">
         <button id="ModalClose-16301526065e3d6703-4" type="button" class="product-popup-modal__toggle" aria-label="Close">
   <svg aria-hidden="true" focusable="false" role="presentation" class="icon" viewBox="0 0 16 17" >
     <path fill-rule="evenodd" clip-rule="evenodd" d="M.865 15.978a.5.5 0 00.707.707l7.433-7.431 7.579 7.282a.501.501 0 00.846-.37.5.5 0 00-.153-.351L9.712 8.546l7.417-7.416a.5.5 0 10-.707-.708L8.991 7.853 1.413.573a.5.5 0 10-.693.72l7.563 7.268-7.418 7.417z" fill="currentColor"/>
 	</svg>
-
-
-
 </button>
-        <div class="product-popup-modal__content-info">
-          
-<div class="wishlist_sizechart">
-<div class="modal-img col-sm-12 col-md-6"><img src="../cdn.shopify.com/s/files/1/0325/3816/5387/files/Size-Chatcb64.png?v=1581568365" data-widths="[480]"></div>
-<div class="modal-text col-sm-12 col-md-6">
-<div class="custom_size_chart_des">
-<h4>Measurement Term Definitions</h4>
-<div class="custom-text-right-table">
-<table class="table">
-<thead class="thead-light">
-<tr>
-<th scope="col">Size</th>
-<th scope="col">Chest</th>
-<th scope="col">Brand Size</th>
-<th scope="col">Shoulder</th>
-<th scope="col">Length</th>
-<th scope="col">Sleeve Length</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>38</td>
-<td>40.2</td>
-<td>38</td>
-<td>17.9</td>
-<td>29.9</td>
-<td>24</td>
-</tr>
-<tr>
-<td>39</td>
-<td>41.3</td>
-<td>39</td>
-<td>18.2</td>
-<td>30.1</td>
-<td>24.5</td>
-</tr>
-<tr>
-<td>40</td>
-<td>42.5</td>
-<td>40</td>
-<td>18.5</td>
-<td>30.3</td>
-<td>25</td>
-</tr>
-<tr>
-<td>42</td>
-<td>44.9</td>
-<td>42</td>
-<td>19.1</td>
-<td>30.7</td>
-<td>25.5</td>
-</tr>
-<tr>
-<td>44</td>
-<td>47.2</td>
-<td>44</td>
-<td>19.7</td>
-<td>31.1</td>
-<td>26</td>
-</tr>
-<tr>
-<td>46</td>
-<td>49.6</td>
-<td>46</td>
-<td>20.3</td>
-<td>31.5</td>
-<td>26.5</td>
-</tr>
-</tbody>
-</table>
-</div>
-<div class="custom-text-right">
-<p><strong>Effective Top Tube Length:</strong> Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
-<p><strong>Seat Tube Length:</strong> dummy text of the printing and typesetting industry when an unknown printer took a galley of type and scrambled but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-<p><strong>Head Tube Length:</strong> Ipsum passages and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
-<p><strong>Head Angle:</strong> Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
-<p><strong>Fork Rake (rake):</strong> It has survived not only five centuries popularised of Letraset sheets containing and more recently with desktop publishing software like Aldus PageMaker including versions.</p>
-<p><strong>Stand Over Height:</strong> galley of type and scrambled it to make a type specimen book. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages.</p>
-</div>
-</div>
-</div>
-</div>
-        </div>
-      </div>
+              </div> -->
     </ishimodal-dialog>
     <div class="ishi-product-tab">
       <ul class="ishi-tabs nav ishi-nav-tabs tab-id">
         
-          <li class="ishi-tab-item"><a class="ishi-nav-link product-description" data-href="#product-desc-template--15146816241820__16301526065e3d6703">Description</a></li>
+          <!-- <li class="ishi-tab-item"><a class="ishi-nav-link product-description" data-href="#product-desc-template--15146816241820__16301526065e3d6703">Description</a></li> -->      
+        
+          <!-- <li class="ishi-tab-item"><a class="ishi-nav-link review-tab" data-href="#product-review-template--15146816241820__16301526065e3d6703">Reviews</a></li> -->
         
         
-          <li class="ishi-tab-item"><a class="ishi-nav-link review-tab" data-href="#product-review-template--15146816241820__16301526065e3d6703">Reviews</a></li>
-        
-        
-          <li class="ishi-tab-item"><a class="ishi-nav-link contact-tab" data-href="#product-contact-template--15146816241820__16301526065e3d6703">Any questions?</a></li>
-        
-        
-        
-        
-      </ul>
-      <div class="ishi-tab-content">
+          <li class="ishi-tab-item"><a class="ishi-nav-link contact-tab" data-href="#product-contact-template--15146816241820__16301526065e3d6703">Any questions?</a></li> 
+     </ul>
+      <!-- <div class="ishi-tab-content">
         
           <div id="product-desc-template--15146816241820__16301526065e3d6703" class="ishi-tab-pane ishi-fade">
             <p>Faded short sleeves t-shirt with high neckline. Soft and stretchy material for a comfortable fit. Accessorize with a straw hat and you're ready for summer!</p>
@@ -6270,20 +5536,20 @@ Comodous in tempor...</div></div>
 <li><span> In 7 awesome variants </span></li>
 </ul>
 </div>
-</div>
-<style><!--
+</div> -->
+<!-- <style>
 .tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
 --></style>
-<style><!--
+<style>
+/* .tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
+</style>
+<style>
 .tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
---></style>
-<style><!--
-.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
---></style>
-<style><!--
-.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px}
---></style>
-          </div>
+</style>
+<style>
+.tb_button {padding:1px;cursor:pointer;border-right: 1px solid #8b8b8b;border-left: 1px solid #FFF;border-bottom: 1px solid #fff;}.tb_button.hover {borer:2px outset #def; background-color: #f8f8f8 !important;}.ws_toolbar {z-index:100000} .ws_toolbar .ws_tb_btn {cursor:pointer;border:1px solid #555;padding:3px}   .tb_highlight{background-color:yellow} .tb_hide {visibility:hidden} .ws_toolbar img {padding:2px;margin:0px} */
+</style>
+          <!-- </div>
         
         
           <div id="product-review-template--15146816241820__16301526065e3d6703" class="ishi-tab-pane ishi-fade">
@@ -6292,10 +5558,10 @@ Comodous in tempor...</div></div>
     border-color: #ECECEC;}
   .spr-review, .spr-form {
     border-color: #ECECEC;
-  }
+  } -->
 </style>
 
-<div class="spr-container">
+<!-- <div class="spr-container">
   <div class="spr-header">
     <h2 class="spr-header-title">Customer Reviews</h2><div class="spr-summary rte">
 
@@ -6314,8 +5580,8 @@ Comodous in tempor...</div></div>
     <div class='spr-reviews' id='reviews_6708630847644' ></div>
   </div>
 
-</div>
-<script type="application/ld+json">
+</div> -->
+<!-- <script type="application/ld+json">
       {
         "@context": "http://schema.org/",
         "@type": "AggregateRating",
@@ -6332,12 +5598,13 @@ Comodous in tempor...</div></div>
           }
         }
       }
-</script></div>
+</script></div> -->
           </div>
         
         
           <div id="product-contact-template--15146816241820__16301526065e3d6703" class="ishi-tab-pane ishi-fade">
-            <div class="contact-form-bottom"><form method="post" action="https://choice-ishi.myshopify.com/contact#ContactForm" id="ContactForm" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="contact" /><input type="hidden" name="utf8" value="✓" /><div class="contact__fields">
+            <div class="contact-form-bottom">
+              <form method="post" action=" " id="ContactForm" accept-charset="UTF-8" class="contact-form"><input type="hidden" name="form_type" value="contact" /><input type="hidden" name="utf8" value="✓" /><div class="contact__fields">
                   <div class="field">
                     <input class="field__input" autocomplete="name" type="text" id="ContactForm-name" name="contact[Name]" value="" placeholder="Name">
                     <label class="field__label" for="ContactForm-name">Name</label>
@@ -6396,7 +5663,7 @@ Comodous in tempor...</div></div>
     function isIE() {
       const ua = window.navigator.userAgent;
       const msie = ua.indexOf('MSIE ');
-      const trident = ua.indexOf('Trident/index.html');
+      const trident = ua.indexOf('Trident/index.php');
       return (msie > 0 || trident > 0);
     }
     if (!isIE()) return;
@@ -6697,7 +5964,7 @@ Comodous in tempor...</div></div>
       </div>
       
       <div class="video-play-icon">
-        <a class="video" href="../www.youtube.com/watchbf30.html?v=_9VUPq3SxOc">
+        <a class="video" href="https://www.youtube.com/watch?v=1rvyxOkQjUE">
           <span class="ripple-effect">
             <i class="fa fa-play-circle" aria-hidden="true"></i>
           </span>
@@ -7198,7 +6465,7 @@ Comodous in tempor...</div></div>
                 
                  
                 <div class="title-desc">
-                  <p>Lorem ipsum dolor sit amet. Etiam ac ex sit amet arcu ultricies rhoncus vel ut nislimply Dummy Text</p>
+                  <p>Join our newsletter to be updated on new arrivals and crazy discounts.</p>
                 </div>
                 
               </div>
@@ -7280,7 +6547,7 @@ Comodous in tempor...</div></div>
 
 </section><section id="shopify-section-template--15146816241820__1630554425ccd0d75b" class="shopify-section ishi-manufacturer-block"><div class="page-width manufacturer-main">
   
-  <div class="manufacturer-block">
+  <!-- <div class="manufacturer-block">
     
       <div  class="manufacturer-carousel manufacturer-carousel-template--15146816241820__1630554425ccd0d75b owl-carousel slider-with-options owl-theme logo-bar"
            data-small="2" 
@@ -7297,7 +6564,7 @@ Comodous in tempor...</div></div>
         
           <div class="logo-bar__item" >
             
-              <a href="index.html" class="logo-bar__link">
+              <a href="index.php" class="logo-bar__link">
             
             
              <img
@@ -7312,7 +6579,7 @@ Comodous in tempor...</div></div>
         
           <div class="logo-bar__item" >
             
-              <a href="index.html" class="logo-bar__link">
+              <a href="index.php" class="logo-bar__link">
             
             
              <img
@@ -7327,7 +6594,7 @@ Comodous in tempor...</div></div>
         
           <div class="logo-bar__item" >
             
-              <a href="index.html" class="logo-bar__link">
+              <a href="index.php" class="logo-bar__link">
             
             
              <img
@@ -7342,7 +6609,7 @@ Comodous in tempor...</div></div>
         
           <div class="logo-bar__item" >
             
-              <a href="index.html" class="logo-bar__link">
+              <a href="index.php" class="logo-bar__link">
             
             
              <img
@@ -7357,7 +6624,7 @@ Comodous in tempor...</div></div>
         
           <div class="logo-bar__item" >
             
-              <a href="index.html" class="logo-bar__link">
+              <a href="index.php" class="logo-bar__link">
             
             
              <img
@@ -7373,7 +6640,7 @@ Comodous in tempor...</div></div>
       </div>
     
 
-  </div>
+  </div> -->
 </div>
 
 
@@ -7437,8 +6704,8 @@ Comodous in tempor...</div></div>
       
       <div class="title">LOCATION</div>
       
-      <p>4005 Silver Business Point</p>
-      <p>India</p>
+      <p>Heri Plaza First Floor, Shop No.F03</p>
+      <p>Karen</p>
     </div>
   </li>
   
@@ -7477,8 +6744,8 @@ Comodous in tempor...</div></div>
       
       <div class="title">CONTACT US</div>
       
-      <a href="index.html">
-        1234567890
+      <a href="index.php">
+        +254740747537
       </a>
     </div>
   </li>
@@ -7519,47 +6786,39 @@ Comodous in tempor...</div></div>
 
       </div><div class="footer-block grid__item block-width-34"><div id="_desktop_storeinfo">
           <div class="footer-block__details-content store-infomation center">                
-            <img class="lazyload"
-                 data-src="//cdn.shopify.com/s/files/1/0433/3790/8380/files/logo_1_large.png?v=1630903507"
+            <img 
+                 src="../cdn.shopify.com/s/files/1/0433/3790/8380/files/logo_1_large.png"
                  alt="Kipusa Beauty"
                  itemprop="logo" style="width: 115px;">
             <div class="store-subtitle">
-              Products We Use for Our Treatments.
-            </div>
+             </div>
             
             <div class="store-desc">
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor Lorem ipsum dolor sit amet.</p>
+              <p></p>
             </div><div class="squre-icon">
               
 <div class="footer-social">
   <ul class="footer__list-social list-unstyled list-social" role="list"><li class="list-social__item facebook">
-      <a href="index.html" class="link link--text list-social__link">
+      <a href="https://www.facebook.com/Kipusabeauty/" class="link link--text list-social__link">
         <i class="fa fa-facebook" aria-hidden="true"></i>
         <span class="icon__-text">Facebook</span>
       </a>
     </li><li class="list-social__item twitter">
-      <a href="index.html" class="link link--text list-social__link">
+      <a href="https://twitter.com/beautykipusa" class="link link--text list-social__link">
         <i class="fa fa-twitter" aria-hidden="true"></i>
         <span class="icon__-text">Twitter</span>
       </a>
-    </li><li class="list-social__item pinterest">
-      <a href="index.html" class="link link--text list-social__link">
-       <i class="fa fa-pinterest-p" aria-hidden="true"></i>
-        <span class="icon__-text">Pinterest</span>
-      </a>
     </li><li class="list-social__item instagram">
-      <a href="index.html" class="link link--text list-social__link">
+      <a href="https://www.instagram.com/kipusa_beauty/?hl=en" class="link link--text list-social__link">
         <i class="fa fa-instagram" aria-hidden="true"></i>
         <span class="icon__-text">Instagram</span>
       </a>
-    </li><li class="list-social__item tumblr">
-      <a href="index.html" class="link link--text list-social__link">
-        <i class="fa fa-tumblr" aria-hidden="true"></i>
-        <span class="icon__-text">Tumblr</span>
-      </a>
-    </li></ul>
+    </li>
+  
+  </ul>
 </div>
-            </div></div>
+            </div>
+          </div>
         </div>
       </div><div class="footer-block grid__item block-width-33"><span data-href="#footer-toggle-3" data-toggle="collapse" class="footer-title hidden-lg-up ishi-collapse in ishi-collapsed rotate" aria-expanded="false">
           <h2 class="footer-block__heading">YOUR ACCOUNT</h2>
@@ -7585,12 +6844,9 @@ Comodous in tempor...</div></div>
               <a href="cart" class="link link--text list-menu__item list-menu__item--link">
                 Orders
               </a>
-            </li><li>
-              <a href="policies/refund-policy.html" class="link link--text list-menu__item list-menu__item--link">
-                Credit Slips
-              </a>
-            </li><li>
-              <a href="pages/contact.html" class="link link--text list-menu__item list-menu__item--link">
+            </li>
+            <li>
+              <a href="pages/contact.php" class="link link--text list-menu__item list-menu__item--link">
                 Persnoal Info
               </a>
             </li></ul></div>
@@ -7621,13 +6877,13 @@ Comodous in tempor...</div></div>
       
       <div class="footer-left col-lg-6 col-md-12 col-sm-12">
         <div class="footer__copyright">
-          © 2021, Glow Sectioned Shopify Theme Powered by Shopify
+          © 2022, Kipusa Beauty Limited
         </div>
       </div>
       
 
        
-      <div class="footer-right col-lg-6 col-md-12 col-sm-12">
+      <!-- <div class="footer-right col-lg-6 col-md-12 col-sm-12">
         <div class="payment-icons">
           <ul class="list list-payment" role="list">
             
@@ -7646,7 +6902,7 @@ Comodous in tempor...</div></div>
             </li>
           </ul>
         </div>
-      </div>
+      </div> -->
       
     </div>
   </div>
